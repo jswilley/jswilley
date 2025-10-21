@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jswilley
 - 👀 I’m interested in tools and techniques around creating .net LOB applications.
-- 🌱 I’m currently learning grpc and blazor pwa
+- 🌱 I’m currently learning spec-kit and augmentative AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
